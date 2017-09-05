@@ -17,7 +17,7 @@ baseurl: ""
 title: The Archmage Code Cauldron
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: An "almost technical" devblog about game development
 
 # --- Navigation bar options --- #
 
@@ -25,9 +25,8 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Itch.io: "https://thegrandarchmage.itch.io/"
+    - GitHub: "https://github.com/TheGrandArchmage"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -45,19 +44,11 @@ avatar: "/img/thearchmage.png"
 author:
   name: Pilato Silvio
   email: "pilatosil@gmail.com"
-  facebook: IAmASinner  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  facebook: IAmASinner  
+  github: TheGrandArchmage  
+ 
+
+ 
 
 # Select which links to show in the footer
 footer-links-active:
@@ -112,7 +103,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
