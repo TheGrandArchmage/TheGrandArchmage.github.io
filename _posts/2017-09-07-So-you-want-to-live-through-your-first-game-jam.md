@@ -61,7 +61,10 @@ An ensemble of fantastic features alone will only make up for a pile of...someth
 Maybe you just passed the last 12 hours following my advices and working hard.
 What now? Now go get some rest.
 Resting is as important as working: you may want to get into a 16 hour working marathon. But you know what? Your rush will burn you out quickly, leaving behind only a tired human being, filled by a daunting sense of guilt.
-**Your brain matters**. As a programmer your brain is your most important tool.
+
+**Your brain matters**.
+
+As a programmer your brain is your most important tool.
 Go get some rest, take a pause now and then and you will see improvement in your productive process.
 _I promise_.
 
@@ -82,6 +85,6 @@ Rome wasn't built in a day and we all can agree how wonderful Rome is, right?
 And, at last one of the most important advice I can give: **cooperate**.
 Maybe you are a one army man of skills, coding, designing and making sounds & arts like a ninja, but working along with teammates will give you some of the most important lessons you will ever learn.
 
-![teamwork is very important][teamwork]
+<center>![teamwork is very important][teamwork]</center>
 
 [teamwork]: https://media.tenor.com/images/95d1b80c6b62561a484817561c116f95/tenor.gif
