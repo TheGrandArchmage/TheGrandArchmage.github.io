@@ -85,6 +85,6 @@ Rome wasn't built in a day and we all can agree how wonderful Rome is, right?
 And, at last one of the most important advice I can give: **cooperate**.
 Maybe you are a one army man of skills, coding, designing and making sounds & arts like a ninja, but working along with teammates will give you some of the most important lessons you will ever learn.
 
-<div class="center-el">![teamwork is very important][teamwork]</center></div>
+![teamwork is very important][teamwork]
 
 [teamwork]: https://media.tenor.com/images/95d1b80c6b62561a484817561c116f95/tenor.gif
