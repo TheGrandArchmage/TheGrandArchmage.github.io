@@ -2,6 +2,7 @@
 layout: post
 title: So you want to live through your first game jam
 subtitle: A non technical guide for game jam survival
+image: /img/jam.jpeg
 tags: [game jam, video game]
 ---
 
@@ -19,6 +20,8 @@ So that's where game jams come in help for me and why I think they are such a po
 
 Enough with that intro.
 Let me show you, from my humble personal experience, some tips to make your experience better during your first game jams.
+
+![let the game begin](https://i.giphy.com/media/LmHFLSnktq4vK/200_s.gif){: .center-el }
 
 ### Start already
 
@@ -40,7 +43,7 @@ Well, do your research or try to come up with your solution, just try to plan so
 
 It doesn't matter if your plans will prove faulty during your execution.
 At least you started actively thinking about your project and you may even have a sketch of it that will prove helpful while coding or designing.
-
+![paint skills](/img/TurnManager.jpg){ : .center-el }
 ### Simplicity
 
 During your mind wandering you may feel tempted to add more and more features.
