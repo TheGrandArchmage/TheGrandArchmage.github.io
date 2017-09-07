@@ -684,12 +684,6 @@ td.gutter {
 /* --- Personal CSS --- */
 
 .center-el{
-  text-align: center;
-}
-
-ul#posts > li > div.post-content > p > img {
-  display: block;
-  margin: 0 auto;
-  max-height: 80%;
-  max-width: 100%;
+    margin: 0 auto;
+    display: block;
 }
