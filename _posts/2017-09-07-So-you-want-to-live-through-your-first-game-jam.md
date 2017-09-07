@@ -2,7 +2,7 @@
 layout: post
 title: So you want to live through your first game jam
 subtitle: A non technical guide for game jam survival
-image: /img/jam.jpeg
+image: /img/jam.jpg
 tags: [game jam, video game]
 ---
 
@@ -23,6 +23,7 @@ Let me show you, from my humble personal experience, some tips to make your expe
 
 ![let the game begin](https://i.giphy.com/media/LmHFLSnktq4vK/200_s.gif){: .center-el }
 
+
 ### Start already
 
 What? Why are you even here?
@@ -31,6 +32,7 @@ You think that your project will fail and perish in less than a second because y
 But remember that failing is part of any learning path and, as I said before, we are here to learn.
 
 So, start failing right now!
+
 
 ### Visualize your project
 
@@ -43,7 +45,11 @@ Well, do your research or try to come up with your solution, just try to plan so
 
 It doesn't matter if your plans will prove faulty during your execution.
 At least you started actively thinking about your project and you may even have a sketch of it that will prove helpful while coding or designing.
-![paint skills](/img/TurnManager.jpg){ : .center-el }
+
+![paint skills](/img/TurnManager.jpg){: .center-el }
+(My MS Paint skills went through the roof since I started developing games)
+
+
 ### Simplicity
 
 During your mind wandering you may feel tempted to add more and more features.
@@ -59,6 +65,7 @@ You should be _hunting_ your first core game mechanic prototype since the start.
 A solid core game mechanic will always make a game.
 An ensemble of fantastic features alone will only make up for a pile of...something.
 
+
 ### Rest!
 
 Maybe you just passed the last 12 hours following my advices and working hard.
@@ -70,6 +77,7 @@ Resting is as important as working: you may want to get into a 16 hour working m
 As a programmer your brain is your most important tool.
 Go get some rest, take a pause now and then and you will see improvement in your productive process.
 _I promise_.
+
 
 ### Use your strengths but get out of your comfort zone
 You may find yourself striving for challenges.
