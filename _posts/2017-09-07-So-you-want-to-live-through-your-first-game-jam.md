@@ -20,7 +20,7 @@ So that's where game jams come in help for me and why I think they are such a po
 Enough with that intro.
 Let me show you, from my humble personal experience, some tips to make your experience better during your first game jams.
 
-###Start already
+##Start already
 
 What? Why are you even here?
 Well, ok, maybe read through that post but then, _absolutely_, **start looking for your first game jam**. Or maybe your second or your third, I don't know.
@@ -29,7 +29,7 @@ But remember that failing is part of any learning path and, as I said before, we
 
 So, start failing right now!
 
-###Visualize your project
+##Visualize your project
 
 Maybe I did convince you, you just joined a jam and right now you are staring at your screen which in return is almost empty, showing you your desktop theme.
 Generally every game jam comes with a theme, if not you may try brainstorming some ideas.
@@ -41,7 +41,7 @@ Well, do your research or try to come up with your solution, just try to plan so
 It doesn't matter if your plans will prove faulty during your execution.
 At least you started actively thinking about your project and you may even have a sketch of it that will prove helpful while coding or designing.
 
-###Simplicity
+##Simplicity
 
 During your mind wandering you may feel tempted to add more and more features.
 If you think they may prove valid, fantastic! Write them down do you may remember them in the future.
@@ -56,7 +56,7 @@ You should be _hunting_ your first core game mechanic prototype since the start.
 A solid core game mechanic will always make a game.
 An ensemble of fantastic features alone will only make up for a pile of...something.
 
-###Rest!
+##Rest!
 
 Maybe you just passed the last 12 hours following my advices and working hard.
 What now? Now go get some rest.
