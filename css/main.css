@@ -686,3 +686,10 @@ td.gutter {
 .center-el{
   text-align: center;
 }
+
+ul#posts > li > div.post-content > p > img {
+  display: block;
+  margin: 0 auto;
+  max-height: 80%;
+  max-width: 100%;
+}
