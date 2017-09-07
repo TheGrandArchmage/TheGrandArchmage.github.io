@@ -11,7 +11,7 @@ These days I wondered about what could be the first issue I could discuss about,
 
 Since I choose the **development way** I stumbled on that particular question: "What do I need to learn right now?".
 Computer science is a broad field, with lots of routes and a hellish number of intersections between each area of interest.
-With so many notion and things to do **You never know enough.**
+With so many notion and things to do. **You never know enough.**
 So you have to learn something everyday, better if in an efficient way.
 And game development especially has that particular aspect where everything will absolutely work, _until you actually try it_.
 
@@ -20,7 +20,7 @@ So that's where game jams come in help for me and why I think they are such a po
 Enough with that intro.
 Let me show you, from my humble personal experience, some tips to make your experience better during your first game jams.
 
-##Start already
+### Start already
 
 What? Why are you even here?
 Well, ok, maybe read through that post but then, _absolutely_, **start looking for your first game jam**. Or maybe your second or your third, I don't know.
@@ -29,7 +29,7 @@ But remember that failing is part of any learning path and, as I said before, we
 
 So, start failing right now!
 
-##Visualize your project
+### Visualize your project
 
 Maybe I did convince you, you just joined a jam and right now you are staring at your screen which in return is almost empty, showing you your desktop theme.
 Generally every game jam comes with a theme, if not you may try brainstorming some ideas.
@@ -41,7 +41,7 @@ Well, do your research or try to come up with your solution, just try to plan so
 It doesn't matter if your plans will prove faulty during your execution.
 At least you started actively thinking about your project and you may even have a sketch of it that will prove helpful while coding or designing.
 
-##Simplicity
+### Simplicity
 
 During your mind wandering you may feel tempted to add more and more features.
 If you think they may prove valid, fantastic! Write them down do you may remember them in the future.
@@ -56,7 +56,7 @@ You should be _hunting_ your first core game mechanic prototype since the start.
 A solid core game mechanic will always make a game.
 An ensemble of fantastic features alone will only make up for a pile of...something.
 
-##Rest!
+### Rest!
 
 Maybe you just passed the last 12 hours following my advices and working hard.
 What now? Now go get some rest.
@@ -65,14 +65,14 @@ Resting is as important as working: you may want to get into a 16 hour working m
 Go get some rest, take a pause now and then and you will see improvement in your productive process.
 _I promise_.
 
-###Use your strengths but get out of your comfort zone
+### Use your strengths but get out of your comfort zone
 You may find yourself striving for challenges.
 That may way get you to enter topics of the art of game development which are unknown to you, or maybe you just will begin messing around with new tools.
 It's ok to explore and I find fundamental to get out of your comfort zone from time to time. **Just do not overdo it**.
 Maybe it's the case to experiment on a IA algorithm completely new to you, just don't do it while you are testing a new engine and scripting in a new language.
 Take your time and do one step at time, or your entire game jam experience may get ruined by frustration. And you will probably not learn too much, getting overwhelmed by concepts.
 
-###Be patient
+### Be patient
 
 Your first game jams may fail. You may get into trouble debugging or you may just find yourself into any external unforeseen event that may compromise your project. Be patient.
 Rome wasn't built in a day and we all can agree how wonderful Rome is, right?
