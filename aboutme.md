@@ -4,8 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is **Silvio Pilato**. 
-I am a developer based in the deep south of Italy.
+My name is **Silvio Pilato** and I am a developer based in the deep south of Italy.
 
 My passion lies on pretty much everything you can transform, _create_ and/or _destroy_.
 
