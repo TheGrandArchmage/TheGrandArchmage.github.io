@@ -9,3 +9,5 @@ My name is **Silvio Pilato** and I am a developer based in the deep south of Ita
 My passion lies on pretty much everything you can transform, _create_ and/or _destroy_.
 
 I am the king of _nasty_ and _stupid_ jokes, trying to make a living out of creating videogames, and meanwhile I pursue development in other areas of interest.
+
+![merlin packing stuff](https://m.popkey.co/bbc33c/ZLK90.gif){: .center-el }
