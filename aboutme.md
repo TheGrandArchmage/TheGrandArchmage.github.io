@@ -4,13 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Silvio Pilato. I am a developer based in the deep south of Italy.
+I like pretty much everything you can transform, create and/or destroy.
+I make videogame mainly as a passion, trying to make a living out of it, and meanwhile I pursue development in other areas of interest.
