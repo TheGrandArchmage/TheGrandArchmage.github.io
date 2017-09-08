@@ -28,7 +28,7 @@ Let me show you, from my humble personal experience, some tips to make your expe
 
 What? Why are you even here?
 Well, ok, maybe read through that post but then, _absolutely_, **start looking for your first game jam**. Or maybe your second or your third, I don't know.
-You think that your project will fail and perish in less than a second because you have no idea and bla-bla.
+You may think that your project will fail and perish because you have no idea and bla-bla.
 But remember that failing is part of any learning path and, as I said before, we are here to learn.
 
 So, start failing right now!
