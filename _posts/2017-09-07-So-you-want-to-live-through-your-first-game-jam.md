@@ -8,7 +8,7 @@ tags: [game jam, video game]
 
 Maybe you just came on this blog, looking for some technical devlog-ish stuff on "how to make a better game" or "how to make X in my Y game engine".
 There will be a day for that stuff. Well, this blog will be more on the technical side that on the emotional one, so actually where will be _a lot of days for that stuff_.
-Yesterday I wondered about what could be the first issue I could discuss about, what question I could tackle first.
+Yesterday I wondered about what what question I could tackle first.
 
 Since I choose the **development way** I stumbled on that particular question: "What do I need to learn right now?".
 Computer science is a broad field, with lots of routes and a hellish number of intersections between each area of interest.
